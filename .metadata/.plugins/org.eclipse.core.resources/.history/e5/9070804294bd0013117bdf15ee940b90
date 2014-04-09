@@ -1,0 +1,2 @@
+#creating a certificate
+keytool -list -v -alias androiddebugkey -keystore %%Your path%% -storepass android -keypass android

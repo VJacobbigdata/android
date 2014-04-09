@@ -1,0 +1,11 @@
+#creating a certificate
+C:\Users\VIJI\.android\debug.keystore
+keytool -list -v -alias androiddebugkey -keystore C:\Users\VIJI\.android\debug.keystore -storepass android -keypass android
+
+from command line create the certificate
+
+
+Copy the SHA1 finger print 
+
+
+ SHA1:0A:5F:47:29:50:7C:1A:E2:53:EA:76:16:17:12:FE:5A:05:CF:0F:6B

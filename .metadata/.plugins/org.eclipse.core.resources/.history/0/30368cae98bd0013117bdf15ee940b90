@@ -1,0 +1,5 @@
+#creating a certificate
+C:\Users\VIJI\.android\debug.keystore
+keytool -list -v -alias androiddebugkey -keystore C:\Users\VIJI\.android\debug.keystore -storepass android -keypass android
+
+from command line create the certificate
